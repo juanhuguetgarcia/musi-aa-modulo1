@@ -137,6 +137,7 @@ build_local.sh
 # MAC
 
 .DS_Store
+W1/.DS_Store
 
 # pyre-check
 .pyre
